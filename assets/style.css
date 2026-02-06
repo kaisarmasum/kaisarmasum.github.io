@@ -180,6 +180,8 @@ code{color:var(--text);background:rgba(15,23,42,.06);padding:2px 6px;border-radi
   color:var(--text);
 }
 .red{ color:#dc2626; font-weight:800; }
+.deepblue{ color:#1e3a8a; font-weight:800; } 
 
 /* Prevent overlay from blocking clicks */
 .thumb-fallback{ pointer-events:none; }
+
